@@ -1,7 +1,3 @@
-<div style="text-align: center; font-size: 3em; font-weight: bold; color: #333;">
-    <p>Hello GitHub!</p>
-</div>
-
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" alt="Image description" width="200" />
 </div>
