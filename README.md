@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub Logo" width="80"/>
+    ![Image](https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56)
 </div>
 
 <h1 style="text-align: center; font-size: 2em; color: #333;">Hey there! I'm Youssef Khaled</h1>
