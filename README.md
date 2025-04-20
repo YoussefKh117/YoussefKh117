@@ -13,7 +13,6 @@
 <h2 style="text-align: center;">🧑‍💻 About Me</h2>
 <ul style="list-style-type: none; text-align: center; padding: 0;">
     <li><strong>🎓</strong> Currently studying at the Faculty of Engineering, Helwan University (Computer & Systems Engineering).</li>
-    <li><strong>📚</strong> Grade: Currently in progress with excellent academic standing.</li>
     <li><strong>💼</strong> Interested in working with Embedded Systems and Artificial Intelligence (AI).</li>
     <li><strong>🚀</strong> Learning more about Embedded Systems, AI, and IoT.</li>
     <li><strong>📬</strong> How to reach me: 
