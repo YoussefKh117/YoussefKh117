@@ -1,7 +1,3 @@
-<div style="text-align: center; font-size: 3em; font-weight: bold; color: #333;">
-    <p>Hello GitHub!</p>
-</div>
-
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" alt="Image description" width="200" />
 </div>
@@ -57,4 +53,13 @@
         <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
     </a>
     <a href="mailto:youssef.khaled12382@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-logo?style
+        <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%234ea3d7" alt="gmail" />
+    </a>
+</p>
+
+<p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YoussefKh117&show_icons=true&locale=en" alt="YoussefKh117" />
+</p>
+<p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefKh117&show_icons=true&locale=en&layout=compact" alt="YoussefKh117" />
+</p>
