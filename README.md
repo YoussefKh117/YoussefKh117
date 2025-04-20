@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-    ![Image](https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56)
+    <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" alt="Image description" width="200" />
 </div>
 
 <h1 style="text-align: center; font-size: 2em; color: #333;">Hey there! I'm Youssef Khaled</h1>
