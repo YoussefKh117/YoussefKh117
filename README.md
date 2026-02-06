@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Youssef+Khaled;AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Youssef+Khaled;AI+Engineer" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YoussefKh117&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YoussefKh117&theme=github-dark" />
 </p>
 
 ---
