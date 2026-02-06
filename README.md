@@ -1,64 +1,84 @@
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" alt="Image description" width="200" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" width="200" />
 </div>
 
-<h1 style="text-align: center; font-size: 2em; color: #333;">Hey there! I'm Youssef Khaled</h1>
+<h1 align="center">Hi 👋, I'm Youssef Khaled</h1>
+<h3 align="center">
+Computer & Systems Engineering Student | Embedded Systems | Artificial Intelligence
+</h3>
 
-<p style="font-size: 1.2em; text-align: center; color: #666;">
-    I'm a student at the Faculty of Engineering, Helwan University, specializing in <strong>Computer & Systems Engineering</strong>.
-    I am passionate about <strong>Embedded Systems</strong> and <strong>Artificial Intelligence (AI)</strong>.
-    I love working on projects that blend hardware and software and am always eager to learn new technologies.
+<p align="center">
+I’m a student at the <b>Faculty of Engineering, Helwan University</b>,  
+specializing in <b>Computer & Systems Engineering</b>.  
+I’m passionate about building systems that combine <b>hardware & software</b>,
+with strong interest in <b>Embedded Systems, AI, and IoT</b>.
 </p>
 
-<h2 style="text-align: center;">🧑‍💻 About Me</h2>
-<ul style="list-style-type: none; text-align: center; padding: 0;">
-    <li><strong>🎓</strong> Currently studying at the Faculty of Engineering, Helwan University (Computer & Systems Engineering).</li>
-    <li><strong>💼</strong> Interested in working with Embedded Systems and Artificial Intelligence (AI).</li>
-    <li><strong>🚀</strong> Learning more about Embedded Systems, AI, and IoT.</li>
-    <li><strong>📬</strong> How to reach me: 
-        <a href="https://www.linkedin.com/in/youssef-khaled-a36174286/" target="_blank">LinkedIn</a> | 
-        <a href="mailto:youssef.khaled12382@gmail.com" target="_blank">Gmail</a>
-    </li>
-</ul>
+---
 
-<h2 style="text-align: center;">🛠️ Languages and Tools</h2>
-<p style="text-align: center;">
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-    </a>
-    <a href="https://www.git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-    </a>
+## 🧑‍💻 About Me
+- 🎓 Computer & Systems Engineering student at Helwan University  
+- 💡 Interested in Embedded Systems, AI, and IoT  
+- 🚀 Always learning and building hands-on projects  
+- 📬 Reach me on:
+  - [LinkedIn](https://www.linkedin.com/in/youssef-khaled-a36174286/)
+  - [Gmail](mailto:youssef.khaled12382@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
 </p>
 
-<h2 style="text-align: center;">Where to find me</h2>
-<p style="text-align: center;">
-    <a href="https://www.linkedin.com/in/youssef-khaled-a36174286/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-    </a>
-    <a href="mailto:youssef.khaled12382@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%234ea3d7" alt="gmail" />
-    </a>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefKh117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
-<p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YoussefKh117&show_icons=true&locale=en" alt="YoussefKh117" />
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YoussefKh117&theme=tokyonight&border_radius=10" />
 </p>
-<p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefKh117&show_icons=true&locale=en&layout=compact" alt="YoussefKh117" />
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefKh117&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKh117&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-khaled-a36174286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youssef.khaled12382@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YoussefKh117&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
