@@ -28,28 +28,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,linux,git,bash,arduino" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefKh117&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YoussefKh117&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKh117&layout=compact&langs_count=8&theme=github_dark" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
