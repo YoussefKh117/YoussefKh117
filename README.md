@@ -2,29 +2,32 @@
   <img src="https://github.com/user-attachments/assets/607559db-1367-4a83-970d-01731ca1ac56" width="200" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Youssef+Khaled;AI+Engineer;Embedded+Systems+Engineer" />
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Youssef+Khaled;AI+Engineer" 
+    alt="Typing animation showing Youssef Khaled and AI Engineer" 
+  />
+</p>
 
 <p align="center">
 🎓 Computer & Systems Engineering Student – Faculty of Engineering, Helwan University  
 <br/>
-🤖 Artificial Intelligence • 🔧 Embedded Systems • 🌐 IoT
+🤖 Artificial Intelligence • Machine Learning • Problem Solving
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Computer & Systems Engineering student at Helwan University  
-- 🤖 Strong interest in **Artificial Intelligence** and Machine Learning  
-- 🔧 Passionate about **Embedded Systems** and hardware–software integration  
-- 🚀 Always learning, building, and improving my skills  
+- 🤖 Strong interest in **Artificial Intelligence** & **Machine Learning**  
+- 🧠 Passionate about data, algorithms, and intelligent systems  
+- 🚀 Always learning and building real-world projects  
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,bash" />
 </p>
 
 ---
