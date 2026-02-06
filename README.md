@@ -9,7 +9,7 @@
 <p align="center">
 🎓 Computer & Systems Engineering Student – Faculty of Engineering, Helwan University  
 <br/>
-🤖 Artificial Intelligence • 🔧 Embedded Systems • 🌐 IoT
+🤖 Artificial Intelligence • 🔧 Embedded Systems
 </p>
 
 ---
